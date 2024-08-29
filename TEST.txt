@@ -1,7 +1,0 @@
-balik ta sa main
-
-<<<<<<< Updated upstream
-then may nag edit na someone remotely
-=======
-kunware may tigparagibo na ako locally
->>>>>>> Stashed changes
